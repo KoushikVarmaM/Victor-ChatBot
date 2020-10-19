@@ -242,7 +242,7 @@ get_timeofday_greeting()
 
 welcome(name)
 
-//
+
 
 def victor():
 
