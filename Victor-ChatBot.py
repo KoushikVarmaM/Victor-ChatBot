@@ -126,7 +126,7 @@ name = input("Enter ur name: ")
 print(" ")
 get_timeofday_greeting()
 welcome(name)
-//
+
 def victor():
     print(" ")
     choice = show_menu()
